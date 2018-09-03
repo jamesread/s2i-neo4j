@@ -9,7 +9,7 @@ MAINTAINER James Read <contact@jread.com>
 ENV HOME=/opt/app-root/src \
     JAVA_VERSION=1.8.0 \
     NEO4J_VERSION=3.1.1 \
-    NEO4J_HOME=/opt/neo4j
+    NEO4J_HOME=/opt/app-root/src
  
 
 # TODO: Set labels used in OpenShift to describe the builder image
